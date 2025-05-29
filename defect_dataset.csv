@@ -1,0 +1,501 @@
+Defect_ID,Category,Severity,Status,Description
+D001,Security,High,In Progress,Error in user authentication
+D002,Hardware,Medium,Resolved,Incompatibility with older versions
+D003,UI,Low,Open,Unexpected application shutdown
+D004,Performance,High,Resolved,Overheating issue in CPU
+D005,Security,Low,In Progress,Unexpected pop-up messages
+D006,Hardware,Critical,Resolved,Unexpected application shutdown
+D007,UI,Critical,In Progress,Slow response in data processing
+D008,Software,High,Resolved,Inconsistent behavior across browsers
+D009,Software,Critical,Resolved,Inability to access certain features
+D010,Software,Medium,Open,Delay in network packet transmissionUI elements not responsive
+D011,Performance,High,Open,Failure to save user preferences
+D012,Performance,Medium,Resolved,Failure to generate reports
+D013,Software,Critical,Resolved,Unexpected pop-up messages
+D014,Performance,Medium,Open,Failure to load external resources
+D015,Hardware,High,Open,Missing error messages
+D016,Security,Critical,Resolved,Error in payment processing
+D017,Security,Critical,In Progress,Failure to send notifications
+D018,Security,High,In Progress,Failure to update software
+D019,Hardware,High,Resolved,Failure to generate reports
+D020,Software,Critical,In Progress,Unexpected behavior in search function
+D021,Security,Medium,In Progress,Incompatibility with older versions
+D022,Hardware,High,In Progress,Inconsistent behavior across browsers
+D023,Software,Low,In Progress,Error in data import process
+D024,Hardware,Low,Open,Hard drive failure detected
+D025,Software,Low,In Progress,Error in payment processing
+D026,UI,High,Open,Error in file upload process
+D027,UI,Critical,Open,Slow response in data processing
+D028,Hardware,Critical,In Progress,Inability to access certain features
+D029,Hardware,High,Open,SSL certificate expired
+D030,Hardware,Low,Resolved,Inability to access certain features
+D031,UI,High,Open,Error in data import process
+D032,Security,Low,In Progress,Failure to save user preferences
+D033,Performance,High,Open,Failure to update software
+D034,Performance,Critical,In Progress,Unauthorized access detected
+D035,UI,Medium,Open,Error in payment processing
+D036,UI,High,Resolved,Unexpected application shutdown
+D037,Security,Critical,Open,Unexpected behavior in search function
+D038,Security,Low,In Progress,Failure to load external resources
+D039,Software,Critical,Resolved,Unexpected application shutdown
+D040,Hardware,Critical,In Progress,Slow response in data processing
+D041,Performance,Medium,Resolved,Failure to update software
+D042,UI,Low,Open,Overheating issue in CPU
+D043,Hardware,High,Open,Unexpected behavior in search function
+D044,Hardware,Low,Open,Unexpected application shutdown
+D045,UI,High,In Progress,Memory leak in application
+D046,Performance,Critical,Resolved,Unauthorized access detected
+D047,UI,Critical,In Progress,Error in file upload process
+D048,Hardware,Critical,Open,Inconsistent behavior across browsers
+D049,Security,Low,In Progress,Error in data import process
+D050,Performance,Medium,Open,SSL certificate expired
+D051,UI,Critical,Resolved,Hard drive failure detected
+D052,UI,Critical,Open,Failure to save user preferences
+D053,Performance,High,Open,Unauthorized access detected
+D054,Performance,Low,Resolved,Data corruption during transfer
+D055,Software,High,In Progress,Incorrect data synchronization
+D056,Software,Critical,Resolved,Missing error messages
+D057,Hardware,Medium,In Progress,Unexpected behavior in search function
+D058,Performance,High,In Progress,Failure to generate reports
+D059,Hardware,Medium,Open,Inability to access certain features
+D060,Security,High,Open,SSL certificate expired
+D061,Hardware,Low,In Progress,Inconsistent behavior across browsers
+D062,UI,Critical,Open,Misalignment in dashboard layout
+D063,Software,High,In Progress,Misalignment in dashboard layout
+D064,Hardware,Low,Resolved,Failure to generate reports
+D065,Hardware,Medium,Resolved,Slow response in data processing
+D066,UI,Low,Open,Inability to connect to database
+D067,Hardware,High,Resolved,Failure to send notifications
+D068,Performance,Medium,In Progress,Error in user authentication
+D069,Performance,High,In Progress,Failure to save user preferences
+D070,UI,Critical,Resolved,Unauthorized access detected
+D071,Hardware,High,In Progress,Memory leak in application
+D072,Hardware,Medium,In Progress,Inability to access certain features
+D073,Performance,Critical,Open,Unexpected application shutdown
+D074,Software,High,Open,Overheating issue in CPU
+D075,UI,High,Resolved,Missing error messages
+D076,Security,Low,Open,Unauthorized access detected
+D077,Performance,High,Resolved,Delay in network packet transmissionUI elements not responsive
+D078,Software,Critical,Open,Failure to send notifications
+D079,Software,Low,Open,Unauthorized access detected
+D080,Software,Critical,Resolved,Unauthorized access detected
+D081,Performance,Critical,Resolved,Error in data import process
+D082,Performance,Medium,In Progress,Error in file upload process
+D083,UI,Medium,Open,Unexpected behavior in search function
+D084,Hardware,High,Open,System crashes on startup
+D085,Security,Low,Open,System crashes on startup
+D086,Performance,Medium,Resolved,Hard drive failure detected
+D087,Hardware,Critical,In Progress,Inconsistent behavior across browsers
+D088,Performance,Low,Open,Failure to load external resources
+D089,Performance,High,Open,Error in file upload process
+D090,Hardware,Low,Resolved,Text formatting error in reports
+D091,Security,Medium,Resolved,Inability to access certain features
+D092,Hardware,Low,Resolved,Error in payment processing
+D093,UI,Critical,In Progress,Unexpected behavior in search function
+D094,Security,Low,Open,Error in user authentication
+D095,Software,Critical,Resolved,Failure to save user preferences
+D096,Performance,Critical,In Progress,Error in payment processing
+D097,Software,Critical,Open,Failure to generate reports
+D098,Performance,Medium,Open,Inconsistent data display
+D099,Hardware,Critical,Resolved,Incompatibility with older versions
+D100,Performance,Low,Resolved,Data corruption during transfer
+D101,Performance,Medium,In Progress,SSL certificate expired
+D102,Hardware,Low,Resolved,Inability to access certain features
+D103,Software,Critical,Open,Failure to load external resources
+D104,Performance,High,Open,Error in payment processing
+D105,Performance,Low,Resolved,System crashes on startup
+D106,UI,Medium,Open,Text formatting error in reports
+D107,Security,High,Resolved,Error in file upload process
+D108,Software,High,In Progress,Inconsistent behavior across browsers
+D109,Performance,Low,In Progress,Inconsistent behavior across browsers
+D110,Hardware,Critical,Resolved,Text formatting error in reports
+D111,Security,High,Open,Data corruption during transfer
+D112,Software,Critical,In Progress,Error in payment processing
+D113,Security,Low,In Progress,Overheating issue in CPU
+D114,Performance,Critical,Resolved,Error in data import process
+D115,Software,Medium,Open,System crashes on startup
+D116,Performance,Critical,Resolved,Incompatibility with older versions
+D117,Performance,High,Open,Hard drive failure detected
+D118,Software,Critical,In Progress,Missing error messages
+D119,UI,Medium,Resolved,Hard drive failure detected
+D120,Software,Medium,In Progress,Error in data import process
+D121,Security,Low,Open,Inconsistent data display
+D122,Hardware,Medium,In Progress,Misalignment in dashboard layout
+D123,UI,Critical,Open,Inconsistent data display
+D124,Performance,High,Open,Incorrect data synchronization
+D125,UI,Critical,Resolved,Data corruption during transfer
+D126,UI,High,In Progress,Hard drive failure detected
+D127,Hardware,Low,Open,Hard drive failure detected
+D128,Software,Medium,In Progress,SSL certificate expired
+D129,UI,High,Resolved,Unauthorized access detected
+D130,Security,Critical,Resolved,Failure to save user preferences
+D131,Security,High,In Progress,System crashes on startup
+D132,Software,Low,Resolved,Inconsistent behavior across browsers
+D133,Performance,High,Open,Failure to update software
+D134,Security,High,In Progress,Hard drive failure detected
+D135,Security,High,Open,Failure to load external resources
+D136,Performance,High,Resolved,Failure to send notifications
+D137,Hardware,Low,Open,Text formatting error in reports
+D138,UI,High,In Progress,Inability to connect to database
+D139,Hardware,High,In Progress,Inability to access certain features
+D140,Software,Critical,Resolved,Unauthorized access detected
+D141,Performance,Critical,Resolved,Misalignment in dashboard layout
+D142,UI,Low,Open,Unexpected pop-up messages
+D143,UI,Critical,Open,Misalignment in dashboard layout
+D144,Performance,Low,Resolved,Incorrect calculations in reports
+D145,UI,Critical,Resolved,Unexpected application shutdown
+D146,Performance,Low,Open,Failure to load external resources
+D147,Hardware,Low,Resolved,Inability to access certain features
+D148,Security,High,Open,Error in payment processing
+D149,Software,Medium,In Progress,Unexpected pop-up messages
+D150,Hardware,High,Resolved,Unexpected behavior in search function
+D151,Software,High,Resolved,Unexpected behavior in search function
+D152,Security,Low,Open,Hard drive failure detected
+D153,Security,Critical,In Progress,Incorrect calculations in reports
+D154,Software,Low,Open,Inability to connect to database
+D155,UI,Low,Open,System crashes on startup
+D156,Hardware,Low,Open,Incorrect calculations in reports
+D157,Security,Critical,Open,Inability to access certain features
+D158,Performance,Critical,Open,Failure to update software
+D159,Security,High,Resolved,Missing error messages
+D160,Security,High,In Progress,Misalignment in dashboard layout
+D161,Performance,High,Open,Unexpected pop-up messages
+D162,Security,Medium,Open,Missing error messages
+D163,Software,Critical,Resolved,Memory leak in application
+D164,Software,Critical,Resolved,Incorrect data synchronization
+D165,Software,Medium,In Progress,Failure to generate reports
+D166,UI,Low,Open,Error in payment processing
+D167,Performance,Medium,Open,Incorrect data synchronization
+D168,Software,Low,Open,SSL certificate expired
+D169,Hardware,Critical,Resolved,Misalignment in dashboard layout
+D170,Hardware,Low,Resolved,Hard drive failure detected
+D171,UI,Low,Resolved,Slow response in data processing
+D172,Hardware,Critical,In Progress,Incorrect calculations in reports
+D173,Software,Low,Resolved,Unauthorized access detected
+D174,Hardware,Low,In Progress,Slow response in data processing
+D175,Software,Low,Open,Data corruption during transfer
+D176,Hardware,Critical,Resolved,Error in data import process
+D177,UI,Critical,In Progress,Failure to load external resources
+D178,Performance,Medium,In Progress,Unexpected behavior in search function
+D179,Hardware,Medium,Resolved,Unexpected behavior in search function
+D180,Hardware,Low,Resolved,SSL certificate expired
+D181,Performance,Low,Resolved,Misalignment in dashboard layout
+D182,Security,High,In Progress,Missing error messages
+D183,Hardware,High,In Progress,Error in data import process
+D184,Performance,High,Open,Data corruption during transfer
+D185,Security,Medium,In Progress,Error in payment processing
+D186,Security,High,Resolved,Unexpected behavior in search function
+D187,Security,High,In Progress,Incorrect calculations in reports
+D188,Software,Low,Open,Failure to update software
+D189,Performance,Medium,Open,Failure to load external resources
+D190,Software,Medium,Open,SSL certificate expired
+D191,Performance,Medium,In Progress,Memory leak in application
+D192,Security,Medium,Open,Unexpected behavior in search function
+D193,Software,Medium,Resolved,Error in payment processing
+D194,Security,Critical,Open,Hard drive failure detected
+D195,Hardware,Low,Resolved,Inability to access certain features
+D196,Performance,Low,Resolved,Failure to generate reports
+D197,UI,Low,Open,Unexpected pop-up messages
+D198,Security,Low,In Progress,Delay in network packet transmissionUI elements not responsive
+D199,Hardware,High,In Progress,Slow response in data processing
+D200,UI,Low,Resolved,Slow response in data processing
+D201,UI,Low,Open,Overheating issue in CPU
+D202,Performance,High,Open,Failure to update software
+D203,Performance,High,Resolved,Text formatting error in reports
+D204,Hardware,Medium,In Progress,Incorrect calculations in reports
+D205,Hardware,Low,Resolved,Missing error messages
+D206,Software,Low,In Progress,Failure to send notifications
+D207,Performance,Medium,In Progress,Inability to access certain features
+D208,Security,High,Open,Inability to connect to database
+D209,Hardware,Low,In Progress,Slow response in data processing
+D210,Performance,Medium,In Progress,Misalignment in dashboard layout
+D211,Performance,High,In Progress,Inability to connect to database
+D212,UI,Low,Open,Data corruption during transfer
+D213,Software,High,Open,Misalignment in dashboard layout
+D214,Security,High,Resolved,Inconsistent behavior across browsers
+D215,Hardware,Low,Open,Slow response in data processing
+D216,Security,Low,Open,Misalignment in dashboard layout
+D217,Security,Medium,Resolved,Text formatting error in reports
+D218,Software,Critical,In Progress,Memory leak in application
+D219,UI,Low,Resolved,Inconsistent behavior across browsers
+D220,UI,Critical,Open,Inconsistent data display
+D221,Performance,Low,Open,Missing error messages
+D222,Security,Medium,Open,Overheating issue in CPU
+D223,Software,High,Open,Overheating issue in CPU
+D224,Security,High,In Progress,Inconsistent behavior across browsers
+D225,Software,High,Resolved,Unexpected pop-up messages
+D226,Security,Medium,In Progress,Inconsistent data display
+D227,Performance,Medium,Open,Unexpected application shutdown
+D228,Software,High,Resolved,Slow response in data processing
+D229,Software,Critical,Open,System crashes on startup
+D230,Software,High,In Progress,Error in payment processing
+D231,Software,Medium,Open,Failure to load external resources
+D232,Hardware,Medium,In Progress,Error in user authentication
+D233,Hardware,Critical,Resolved,Inability to access certain features
+D234,UI,Critical,In Progress,Incorrect data synchronization
+D235,Software,Low,Open,Incorrect data synchronization
+D236,Software,Critical,Resolved,Slow response in data processing
+D237,Security,Low,In Progress,Hard drive failure detected
+D238,Hardware,Critical,Open,Incompatibility with older versions
+D239,Security,Low,In Progress,Incorrect data synchronization
+D240,Performance,Medium,In Progress,Error in payment processing
+D241,Performance,High,In Progress,Misalignment in dashboard layout
+D242,Security,Low,Resolved,Inconsistent behavior across browsers
+D243,Security,Critical,In Progress,Failure to load external resources
+D244,Software,Medium,Open,Slow response in data processing
+D245,Security,High,Open,Failure to update software
+D246,Security,High,In Progress,Error in user authentication
+D247,UI,Low,In Progress,Incorrect calculations in reports
+D248,Performance,High,Resolved,Failure to send notifications
+D249,Software,Medium,In Progress,Incorrect data synchronization
+D250,Performance,Critical,Resolved,Inconsistent behavior across browsers
+D251,Security,Medium,Resolved,SSL certificate expired
+D252,Performance,Low,Open,Failure to send notifications
+D253,Hardware,High,In Progress,Error in file upload process
+D254,Software,Medium,In Progress,Unexpected application shutdown
+D255,Hardware,Low,Resolved,Text formatting error in reports
+D256,Security,Low,In Progress,Slow response in data processing
+D257,Security,Low,Open,Text formatting error in reports
+D258,UI,Critical,In Progress,Data corruption during transfer
+D259,Hardware,High,Resolved,SSL certificate expired
+D260,UI,Medium,Resolved,Failure to load external resources
+D261,Security,Low,Open,Incorrect calculations in reports
+D262,Security,High,In Progress,Data corruption during transfer
+D263,UI,Low,Open,SSL certificate expired
+D264,Hardware,Medium,Resolved,Failure to generate reports
+D265,UI,Low,Open,Overheating issue in CPU
+D266,UI,Low,Resolved,Inconsistent behavior across browsers
+D267,Performance,Low,In Progress,Delay in network packet transmissionUI elements not responsive
+D268,Software,High,In Progress,Slow response in data processing
+D269,Security,Critical,Resolved,SSL certificate expired
+D270,Hardware,Low,In Progress,Error in file upload process
+D271,Software,High,Resolved,Inconsistent behavior across browsers
+D272,Performance,High,Open,Error in user authentication
+D273,Performance,Medium,Open,Delay in network packet transmissionUI elements not responsive
+D274,Hardware,Low,In Progress,Error in user authentication
+D275,UI,Low,In Progress,Inconsistent data display
+D276,Security,Low,Resolved,Text formatting error in reports
+D277,Security,Medium,Open,Error in user authentication
+D278,Security,Medium,In Progress,Error in file upload process
+D279,Performance,Medium,Open,Misalignment in dashboard layout
+D280,UI,Low,In Progress,Error in file upload process
+D281,Performance,Low,Resolved,Error in data import process
+D282,Software,Low,Open,Data corruption during transfer
+D283,Security,Low,Open,Text formatting error in reports
+D284,Security,Low,Open,Memory leak in application
+D285,Performance,High,Resolved,Slow response in data processing
+D286,Security,Critical,Resolved,Slow response in data processing
+D287,Hardware,Medium,Resolved,Memory leak in application
+D288,UI,High,Open,Overheating issue in CPU
+D289,Performance,Low,Open,Failure to generate reports
+D290,UI,High,Open,Memory leak in application
+D291,Performance,Medium,In Progress,Inconsistent behavior across browsers
+D292,Security,Low,In Progress,Slow response in data processing
+D293,Hardware,Low,Open,Failure to update software
+D294,Security,Low,Resolved,Misalignment in dashboard layout
+D295,Hardware,Low,In Progress,Hard drive failure detected
+D296,UI,Critical,Resolved,Hard drive failure detected
+D297,Software,Medium,Open,Failure to load external resources
+D298,Security,Critical,Open,Unexpected pop-up messages
+D299,Security,Low,In Progress,Inconsistent behavior across browsers
+D300,Hardware,Critical,In Progress,Unauthorized access detected
+D301,Security,Low,In Progress,System crashes on startup
+D302,Performance,Low,Open,Inability to access certain features
+D303,Performance,Low,Resolved,Error in user authentication
+D304,UI,High,In Progress,Error in data import process
+D305,Performance,Critical,In Progress,SSL certificate expired
+D306,Performance,Critical,Resolved,Unexpected behavior in search function
+D307,Security,High,Open,System crashes on startup
+D308,Hardware,Low,Resolved,Incompatibility with older versions
+D309,UI,High,Resolved,Text formatting error in reports
+D310,Software,Critical,Resolved,Inability to connect to database
+D311,UI,Low,Resolved,Unexpected application shutdown
+D312,Performance,High,Open,Missing error messages
+D313,UI,Low,In Progress,Failure to send notifications
+D314,Security,High,Open,Inability to connect to database
+D315,Hardware,High,Resolved,Inconsistent data display
+D316,Performance,Critical,In Progress,Error in user authentication
+D317,Security,Medium,In Progress,Unexpected behavior in search function
+D318,Performance,Medium,Open,Failure to generate reports
+D319,Software,Medium,Resolved,Incorrect calculations in reports
+D320,UI,Low,In Progress,Incompatibility with older versions
+D321,UI,Medium,In Progress,Text formatting error in reports
+D322,Security,Low,Resolved,Overheating issue in CPU
+D323,Hardware,Medium,In Progress,Unauthorized access detected
+D324,Hardware,Critical,Resolved,Data corruption during transfer
+D325,Software,High,Open,Failure to load external resources
+D326,Performance,High,Open,Memory leak in application
+D327,Security,Medium,In Progress,Error in user authentication
+D328,Hardware,High,In Progress,Unexpected pop-up messages
+D329,Software,Critical,Open,Failure to send notifications
+D330,Software,High,Resolved,Delay in network packet transmissionUI elements not responsive
+D331,Security,Low,In Progress,Inability to access certain features
+D332,Software,High,Open,Unexpected behavior in search function
+D333,UI,Critical,Open,Overheating issue in CPU
+D334,Performance,Medium,In Progress,Error in file upload process
+D335,Hardware,Critical,Resolved,System crashes on startup
+D336,UI,Critical,Open,Unexpected behavior in search function
+D337,UI,High,Resolved,Delay in network packet transmissionUI elements not responsive
+D338,Hardware,High,In Progress,Data corruption during transfer
+D339,Software,Low,Resolved,Memory leak in application
+D340,UI,Critical,In Progress,Error in data import process
+D341,Security,Critical,Open,Failure to save user preferences
+D342,Security,Medium,In Progress,System crashes on startup
+D343,Hardware,Medium,In Progress,Failure to generate reports
+D344,Performance,Low,Resolved,Error in file upload process
+D345,Performance,Critical,Resolved,Inability to access certain features
+D346,Security,Low,In Progress,Error in file upload process
+D347,Software,Medium,Resolved,Data corruption during transfer
+D348,Hardware,Critical,In Progress,Incompatibility with older versions
+D349,Performance,Low,Open,Unexpected behavior in search function
+D350,Performance,Low,Open,Incorrect calculations in reports
+D351,Hardware,Medium,In Progress,Inability to access certain features
+D352,UI,Critical,Resolved,Unexpected application shutdown
+D353,Software,Low,Open,Failure to save user preferences
+D354,Software,Critical,Open,Inconsistent behavior across browsers
+D355,Hardware,Low,In Progress,Unauthorized access detected
+D356,Performance,Medium,Open,Failure to load external resources
+D357,Hardware,Critical,Open,Failure to save user preferences
+D358,Security,High,Resolved,Unexpected application shutdown
+D359,Performance,Low,In Progress,Inconsistent data display
+D360,Performance,High,Resolved,Inability to access certain features
+D361,UI,Critical,Open,Delay in network packet transmissionUI elements not responsive
+D362,Security,High,In Progress,Error in file upload process
+D363,Security,Medium,In Progress,Inconsistent data display
+D364,UI,Medium,Open,Error in payment processing
+D365,UI,Low,Open,Failure to load external resources
+D366,Security,Low,Open,Error in data import process
+D367,Hardware,Low,Open,Unexpected behavior in search function
+D368,Performance,Medium,Open,Inconsistent behavior across browsers
+D369,UI,High,Resolved,Overheating issue in CPU
+D370,Hardware,High,Resolved,Overheating issue in CPU
+D371,Performance,Medium,In Progress,Unexpected behavior in search function
+D372,Performance,Medium,Resolved,Unexpected application shutdown
+D373,Performance,High,Resolved,Inability to access certain features
+D374,Performance,Medium,Resolved,Failure to load external resources
+D375,Software,Critical,In Progress,Delay in network packet transmissionUI elements not responsive
+D376,UI,Low,In Progress,Overheating issue in CPU
+D377,UI,Low,Resolved,Error in file upload process
+D378,Software,Medium,In Progress,Incompatibility with older versions
+D379,Software,Critical,Open,SSL certificate expired
+D380,Performance,Low,In Progress,Memory leak in application
+D381,UI,Critical,In Progress,Failure to save user preferences
+D382,Software,Medium,Resolved,Incompatibility with older versions
+D383,Software,Critical,Resolved,Inconsistent behavior across browsers
+D384,Software,Critical,Open,Data corruption during transfer
+D385,Security,High,In Progress,Inconsistent behavior across browsers
+D386,Hardware,Medium,Resolved,Failure to save user preferences
+D387,UI,Low,In Progress,Error in payment processing
+D388,Hardware,High,Open,Overheating issue in CPU
+D389,Performance,Low,Open,SSL certificate expired
+D390,UI,Critical,Resolved,Failure to save user preferences
+D391,Security,Critical,In Progress,Slow response in data processing
+D392,Security,High,Open,Inconsistent data display
+D393,Software,High,Open,Data corruption during transfer
+D394,UI,High,Open,Inability to access certain features
+D395,Software,Medium,Open,Overheating issue in CPU
+D396,UI,Critical,In Progress,Hard drive failure detected
+D397,Software,Critical,In Progress,Failure to generate reports
+D398,Security,Medium,Resolved,Inability to connect to database
+D399,Security,Low,In Progress,Inability to access certain features
+D400,UI,Medium,Open,Inconsistent behavior across browsers
+D401,Hardware,Medium,In Progress,Data corruption during transfer
+D402,Hardware,Low,Resolved,Memory leak in application
+D403,Security,Low,In Progress,Failure to generate reports
+D404,Hardware,Critical,Open,Incompatibility with older versions
+D405,Performance,Low,In Progress,Misalignment in dashboard layout
+D406,Software,High,In Progress,Text formatting error in reports
+D407,UI,Low,Resolved,Overheating issue in CPU
+D408,UI,High,Open,Unexpected behavior in search function
+D409,Software,Critical,Resolved,Missing error messages
+D410,Security,Critical,In Progress,Failure to send notifications
+D411,Hardware,Critical,In Progress,Inconsistent behavior across browsers
+D412,Hardware,Low,Open,Incorrect data synchronization
+D413,Performance,Low,In Progress,Hard drive failure detected
+D414,UI,High,In Progress,Misalignment in dashboard layout
+D415,Hardware,Critical,Open,Inconsistent data display
+D416,UI,High,In Progress,Slow response in data processing
+D417,Hardware,High,In Progress,Text formatting error in reports
+D418,UI,Medium,Resolved,Overheating issue in CPU
+D419,UI,High,Resolved,Failure to load external resources
+D420,Hardware,Low,Resolved,Inconsistent behavior across browsers
+D421,UI,Low,Resolved,Inability to access certain features
+D422,Security,Low,Resolved,Hard drive failure detected
+D423,Performance,Low,In Progress,Incompatibility with older versions
+D424,Security,Low,In Progress,Slow response in data processing
+D425,UI,High,Resolved,Incorrect calculations in reports
+D426,UI,Medium,In Progress,Inability to connect to database
+D427,Hardware,High,Open,Incompatibility with older versions
+D428,UI,Low,Resolved,Unexpected application shutdown
+D429,Hardware,Low,In Progress,Failure to generate reports
+D430,Security,Low,Resolved,Incorrect data synchronization
+D431,Hardware,High,In Progress,System crashes on startup
+D432,UI,Low,Resolved,Incorrect data synchronization
+D433,UI,Critical,Open,Failure to update software
+D434,Software,Medium,Resolved,SSL certificate expired
+D435,Software,Critical,Open,Incompatibility with older versions
+D436,Hardware,Low,In Progress,System crashes on startup
+D437,Performance,Medium,Resolved,Slow response in data processing
+D438,Hardware,High,In Progress,SSL certificate expired
+D439,Security,Critical,Open,Error in user authentication
+D440,Performance,Medium,In Progress,Error in file upload process
+D441,UI,Critical,Resolved,Memory leak in application
+D442,Performance,High,Open,Failure to update software
+D443,UI,High,In Progress,Error in payment processing
+D444,Hardware,High,Resolved,Inability to access certain features
+D445,UI,Medium,Open,Hard drive failure detected
+D446,Security,Critical,Resolved,Failure to load external resources
+D447,Hardware,High,Open,Memory leak in application
+D448,Security,Critical,Open,Missing error messages
+D449,Security,High,Open,Text formatting error in reports
+D450,UI,High,In Progress,Inability to access certain features
+D451,Performance,Low,In Progress,Incompatibility with older versions
+D452,Hardware,Medium,In Progress,Hard drive failure detected
+D453,Performance,Medium,Resolved,Slow response in data processing
+D454,Software,Critical,In Progress,Slow response in data processing
+D455,Software,Critical,In Progress,Memory leak in application
+D456,Performance,Low,Resolved,Text formatting error in reports
+D457,Hardware,Low,In Progress,Text formatting error in reports
+D458,Hardware,Medium,Resolved,Inconsistent data display
+D459,Hardware,Low,Open,Hard drive failure detected
+D460,Security,Low,Open,Incompatibility with older versions
+D461,Performance,Low,In Progress,Overheating issue in CPU
+D462,Software,Medium,Open,Unexpected behavior in search function
+D463,Software,Critical,Resolved,Unexpected behavior in search function
+D464,Software,Medium,In Progress,Incompatibility with older versions
+D465,Performance,Critical,In Progress,Memory leak in application
+D466,UI,Medium,In Progress,Memory leak in application
+D467,Hardware,High,Open,Error in user authentication
+D468,Performance,Critical,In Progress,Inconsistent data display
+D469,Performance,Medium,Resolved,SSL certificate expired
+D470,UI,Low,Resolved,Hard drive failure detected
+D471,Hardware,Low,Resolved,Overheating issue in CPU
+D472,Security,High,In Progress,Unexpected application shutdown
+D473,Performance,Low,In Progress,SSL certificate expired
+D474,Software,Medium,Open,Memory leak in application
+D475,Performance,Critical,Open,Error in data import process
+D476,Software,Low,In Progress,Failure to save user preferences
+D477,Performance,High,Resolved,Data corruption during transfer
+D478,Software,Critical,Resolved,System crashes on startup
+D479,Software,Critical,In Progress,Data corruption during transfer
+D480,Hardware,High,In Progress,Slow response in data processing
+D481,UI,Low,Open,Inability to connect to database
+D482,Hardware,High,Open,Incorrect data synchronization
+D483,Software,Medium,Resolved,Failure to save user preferences
+D484,UI,Low,Resolved,Unexpected application shutdown
+D485,Hardware,Critical,Open,Incompatibility with older versions
+D486,Performance,Low,Open,Unauthorized access detected
+D487,UI,Medium,Resolved,Hard drive failure detected
+D488,Hardware,Critical,Open,Error in payment processing
+D489,Hardware,Low,In Progress,Inconsistent behavior across browsers
+D490,Software,Critical,Resolved,Inconsistent behavior across browsers
+D491,UI,Medium,Open,Incorrect calculations in reports
+D492,Hardware,Critical,In Progress,Unexpected pop-up messages
+D493,Software,High,Resolved,Error in user authentication
+D494,Security,High,Resolved,Unexpected behavior in search function
+D495,Security,Medium,Open,Failure to send notifications
+D496,Security,Medium,In Progress,Unauthorized access detected
+D497,UI,Critical,Resolved,Incorrect data synchronization
+D498,Performance,Critical,In Progress,Error in payment processing
+D499,UI,Critical,Open,Error in data import process
+D500,UI,High,Open,Incorrect data synchronization
